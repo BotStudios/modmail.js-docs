@@ -3,7 +3,7 @@ title: modmail.js
 description: Documentation For Modmail.js
 search_enabled: true
 footer_content: Copyright &copy; by <a href="https://github.com/botstudios">Bot Studios</a>. A guide made by the contributors of modmail.js for its users.
-url: "https://modmail.js.org/docs"
+url: "https://botstudios.github.io/modmail.js-docs"
 heading_anchors: true
 nav_sort: case_sensitive
 permalink: pretty
