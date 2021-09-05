@@ -2,7 +2,7 @@ theme: just-the-docs
 title: modmail.js
 description: Documentation For Modmail.js
 search_enabled: true
-footer_content: Copyright &copy; by <a href="https://github.com/botstudios">Bot Studios</a>. A guide made by the contributors of modmail.js for its users.
+footer_content: Copyright &copy; by <a href="https://github.com/botstudios">Bot Studios</a>. A documentation made by the contributors of modmail.js for its users.
 heading_anchors: true
 nav_sort: case_sensitive
 permalink: pretty
