@@ -20,7 +20,7 @@ Logs the client in, establishing a websocket connection to Discord, then starts 
 **Returns :** [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) <[object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/object)>
 
 | Key | Value |
-| --- | --- |
+| ------ | ----- |
 | **client** | [Discord.Client()](https://discord.js.org/#/docs/main/stable/class/Client) |
 | **plugins** | Plugin Status |
 
