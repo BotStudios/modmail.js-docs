@@ -7,7 +7,7 @@ permalink: /modules/function/modmail/options
 ---
 
 # ModmailOptions
-Options For A `Modmail()` Function
+Options For A [`Modmail()`](/modules/function/modmail) Function
 
 ### Types
 - [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
