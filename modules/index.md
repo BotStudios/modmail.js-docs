@@ -16,7 +16,7 @@ permalink: /modules
    >  - [Callback](./function/modmail#callback)
    
    * [**`.Intents()`**](./function/intents)
-   >  - [Callback - Array](./function/intents#array)
+   >  - [Callback - Array](./function/intents)
     
    * [**`.version()`**](./function/version)
    >  - [Callback - String](./function/version#string)
