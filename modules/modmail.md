@@ -9,10 +9,11 @@ permalink: /modules/function/modmail/
 # `Modmail()`
 Logs the client in, establishing a websocket connection to Discord, then starts the bot.
 
-| **Parameter** | **Type** | **Description** |
-| ------------- | -------- | --------------- |
-|  Options / Configuration     | Object   | Set Up / Configure The Modmail |
-
+---
+**Parameter** : Options / Configuration   
+**Type** : Object  
+**Description** : Set Up / Configure The Modmail 
+---
 
 
 
