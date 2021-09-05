@@ -3,6 +3,7 @@ layout: default
 title: Modmail()
 parent: Function
 grand_parent: Modules
+has_children: true
 permalink: /modules/function/modmail/
 ---
 
