@@ -22,3 +22,6 @@ Options For A `Modmail()` Function
 | message | [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | False | None | Sends that message before every mail |
 | plugins | [array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/array) | False | None | Activate/Configure Plugins |
 | resolve | [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | False | `all` | Item(s) To Resolve ([Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/promise)) |
+| category | [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | False | None | Thread Category ID |
+| roleID | [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) | False | None | Modmail Staff Role ID |
+
