@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modmail()
+title: Modmail
 parent: Function
 grand_parent: Modules
 has_children: true
