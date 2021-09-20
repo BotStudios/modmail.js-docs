@@ -9,32 +9,32 @@ permalink: /modules
 ## Modules
 -----
 **Function**
-   * [**`.Modmail()`**](./function/modmail)  
-   >  - [Usage](./function/modmail#usage)
-   >  - [Configuration](./function/modmail#config)
-   >  - [Privileged Intents](./function/modmail#privileged-intents)
-   >  - [Callback](./function/modmail#callback)
+   * [**`.Modmail()`**](./modules/function/modmail)  
+   >  - [Usage](./modules/function/modmail#usage)
+   >  - [Configuration](./modules/function/modmail#config)
+   >  - [Privileged Intents](./modules/function/modmail#privileged-intents)
+   >  - [Callback](./modules/function/modmail#callback)
    
-   * [**`.Intents()`**](./function/intents)
-   >  - [Callback - Array](./function/intents)
+   * [**`.Intents()`**](./modules/function/intents)
+   >  - [Callback - Array](./modules/function/intents)
     
-   * [**`.version()`**](./function/version)
-   >  - [Callback - String](./function/version#string)
+   * [**`.version()`**](./modules/function/version)
+   >  - [Callback - String](./modules/function/version#string)
      
 **Plugins**
- * [**`"replyToReply"`**](./plugin/replyToReply)
- >  - [Usage](./plugin/replyToReply#usage)
+ * [**`"replyToReply"`**](./modules/plugin/replyToReply)
+ >  - [Usage](./modules/plugin/replyToReply#usage)
     
- * [**`"cache"`**](./plugin/cache)
- >   - [Usage](./plugin/cache#usage)
+ * [**`"cache"`**](./modules/plugin/cache)
+ >   - [Usage](./modules/plugin/cache#usage)
    
- * [**`"extend"`**](./plugin/extend)
- >  - [Usage](./plugin/extend#usage)
- >  - [Example](./plugin/extend#example)
+ * [**`"extend"`**](./modules/plugin/extend)
+ >  - [Usage](./modules/plugin/extend#usage)
+ >  - [Example](./modules/plugin/extend#example)
 
  * [**`"mongoDB"`**](./plugin/mongodb)
- >  - [Usage](./plugin/mongodb#usage)
- >  - [Example](./plugin/mongodb#example)
+ >  - [Usage](./modules/plugin/mongodb#usage)
+ >  - [Example](./modules/plugin/mongodb#example)
 
 
 
